@@ -1,0 +1,22 @@
+@keyframes bounceIn{20%,40%,60%,80%,from,to{animation-timing-function:cubic-bezier(0.215,0.61,0.355,1)}0%{opacity:0;transform:scale3d(.3,.3,.3)}20%{transform:scale3d(1.1,1.1,1.1)}40%{transform:scale3d(.9,.9,.9)}60%{opacity:1;transform:scale3d(1.03,1.03,1.03)}80%{transform:scale3d(.97,.97,.97)}to{opacity:1;transform:scale3d(1,1,1)}}.bounceIn{animation-name:bounceIn}
+/*
+     FILE ARCHIVED ON 14:11:52 Sep 29, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:17:55 Oct 17, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.711
+  exclusion.robots: 0.034
+  exclusion.robots.policy: 0.018
+  esindex: 0.012
+  cdx.remote: 20.216
+  LoadShardBlock: 90.835 (3)
+  PetaboxLoader3.datanode: 80.962 (5)
+  PetaboxLoader3.resolve: 154.44 (2)
+  load_resource: 178.455
+  loaddict: 41.116
+*/
